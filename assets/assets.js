@@ -36,9 +36,9 @@ import projector_image from "./projector_image.png";
 import playstation_image from "./playstation_image.png";
 import girl_with_headphone_image from "./girl_with_headphone_image.png";
 import girl_with_earphone_image from "./girl_with_earphone_image.png";
-import md_controller_image from "./md_controller_image.png";
-import sm_controller_image from "./sm_controller_image.png";
-import jbl_soundbox_image from "./jbl_soundbox_image.png";
+import women_backless_image from "./women_backless_image.png";
+import sm_image from "./sm_image.png";
+import women_croptop from "./women_croptop.png";
 import boy_with_laptop_image from "./boy_with_laptop_image.png";
 import checkmark from "./checkmark.png";
 import product_details_page_apple_earphone_image1 from "./product_details_page_apple_earphone_image1.png";
@@ -86,9 +86,9 @@ export const assets = {
   playstation_image,
   girl_with_headphone_image,
   girl_with_earphone_image,
-  md_controller_image,
-  sm_controller_image,
-  jbl_soundbox_image,
+  women_backless_image,
+  sm_image,
+  women_croptop,
   boy_with_laptop_image,
   product_details_page_apple_earphone_image1,
   product_details_page_apple_earphone_image2,
@@ -419,7 +419,7 @@ export const addressDummyData = [
   {
     "_id": "67a1e4233f34a77b6dde9055",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "fullName": "GreatStack",
+    "fullName": "Quickcart",
     "phoneNumber": "0123456789",
     "pincode": 654321,
     "area": "Main Road , 123 Street, G Block",

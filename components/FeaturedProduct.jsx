@@ -6,20 +6,20 @@ const products = [
   {
     id: 1,
     image: assets.girl_with_headphone_image,
-    title: "Unparalleled Sound",
-    description: "Experience crystal-clear audio with premium headphones.",
+    title: "Unparalleled Quality",
+    description: "Experience crystal-clear Fabric with premium Quality.",
   },
   {
     id: 2,
     image: assets.girl_with_earphone_image,
     title: "Stay Connected",
-    description: "Compact and stylish earphones for every occasion.",
+    description: "Compact and stylish clothes for every occasion.",
   },
   {
     id: 3,
     image: assets.boy_with_laptop_image,
-    title: "Power in Every Pixel",
-    description: "Shop the latest laptops for work, gaming, and more.",
+    title: "Power in Every threads",
+    description: "Shop the latest clothes for wedding, travelling, and more.",
   },
 ];
 
