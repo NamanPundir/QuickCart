@@ -1,7 +1,7 @@
 import { Inngest } from "inngest";
 import connectDB from "./db";
 import User from "@/models/User";
-import { addressDummyData } from "@/assets/assets";
+
 
 
 // Create a client to send and receive events
