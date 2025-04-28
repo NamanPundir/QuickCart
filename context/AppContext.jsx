@@ -21,10 +21,10 @@ export const AppContextProvider = (props) => {
     const{getToken} = useAuth()
     const [products, setProducts] = useState([])
     const [userData, setUserData] = useState(false)
-    const [isSeller, setIsSeller] = useState(false)
+    const [isSeller, setIsSeller] = useState(true)
     const [cartItems, setCartItems] = useState({})
 
-   /* const fetchProductData = async () => {
+   /*const fetchProductData = async () => {
         try{
             const {data} = await axios.get('/api/product/list')
 
